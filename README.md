@@ -1,6 +1,6 @@
 
 
-# Modern Methods of Applied Statistics (Spring 2023) STAT 34800
+# Modern Methods of Applied Statistics (Spring 2024) STAT 34800
 Instructor: Aaron Schein <br>
 TAs: Jimmy Lederman, Sean O'Hagan, Jinwen Yang <br>
 
