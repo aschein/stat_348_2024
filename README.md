@@ -29,6 +29,9 @@ The University of Chicago
     - Chap 2 of [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/)
     - Chap 3 and 12 of [Advanced Data Analysis
 from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+- Lecture materials: 
+    - [Notebook](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/notebooks/W1_supervised_learning.ipynb)
+    - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_1_ipad.pdf)
 
 
 
