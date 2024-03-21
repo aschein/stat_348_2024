@@ -38,4 +38,6 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
     - Chap 5.1, 6.2, 7.1 of [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/)
     - Chap 7 of [Advanced Data Analysis
 from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+- Lecture materials: 
+    - [Notebook](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/notebooks/W1_supervised_learning.ipynb)
 
