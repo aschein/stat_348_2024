@@ -11,7 +11,7 @@ The University of Chicago
 - Time: Tuesday and Thursday, 3:30am-4:50pm
 - Place: Eckhart room 133
 - Office hours: 
-    - Jimmy: TBD
+    - Jimmy: Monday 1:30-2:30 in Jones 304
     - Sean: TBD
     - Jinwen: TBD
 
