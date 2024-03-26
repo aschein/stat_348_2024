@@ -51,5 +51,4 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
     - Chap 9 of ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf)
 - Lecture materials: 
     - [Notebook](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/notebooks/W2_intro_bayes.ipynb)
-    - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_2_ipad.pdf)
 
