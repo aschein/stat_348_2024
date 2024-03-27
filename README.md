@@ -11,9 +11,9 @@ The University of Chicago
 - Time: Tuesday and Thursday, 3:30am-4:50pm
 - Place: Eckhart room 133
 - Office hours: 
-    - Jimmy: Monday 1:30-2:30 in Jones 304
-    - Sean: TBD
-    - Jinwen: TBD
+    - Jimmy: Mon 1:30-2:30 (Jones 304)
+    - Sean: Wed 3:00-4:00 (Jones 304)
+    - Jinwen: Fri 10:00-11:00 (TBD)
 
 ## Assignments
 - [Assignment 1: Supervised learning](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw1.ipynb). Due **Saturday March 30 at 11:59pm** on GradeScope. 
