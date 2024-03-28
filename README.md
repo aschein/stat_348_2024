@@ -13,7 +13,7 @@ The University of Chicago
 - Office hours: 
     - Jimmy: Mon 1:30-2:30 (Jones 304)
     - Sean: Wed 3:00-4:00 (Jones 304)
-    - Jinwen: Fri 10:00-11:00 (TBD)
+    - Jinwen: Fri 10:00-11:00 (Jones 304)
 
 ## Assignments
 - [Assignment 1: Supervised learning](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw1.ipynb). Due **Saturday March 30 at 11:59pm** on GradeScope. 
