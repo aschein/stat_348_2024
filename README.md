@@ -62,4 +62,13 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 - Lecture materials: 
     - [Notebook](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/notebooks/W2_bayes_decision_theory.ipynb)
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_4_ipad.pdf)
+    
+### Lecture 5 (April): Conjugacy, exponential families, and information theory
+- Reading / resources:
+	- David Blei's  [lectures notes](https://www.cs.columbia.edu/~blei/fogm/2015F/notes/exponential-family.pdf) on conjugacy in exponential families
+	- Jeffrey Miller's  [slides](https://jwmi.github.io/BMB/3-Conjugate-priors.pdf) on conjugate priors
+	- Chap 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on exponential families as maximum entropy distributions
+	- Chap 2.4-2.6 and 4.1-4.3 of Mackay (2005) [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf)
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_5_ipad.pdf)
 
