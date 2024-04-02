@@ -10,10 +10,12 @@ The University of Chicago
 ## Logistics:
 - Time: Tuesday and Thursday, 3:30am-4:50pm
 - Place: Eckhart room 133
-- Office hours: 
-    - Jimmy: Mon 1:30-2:30 (Jones 304)
-    - Sean: Wed 3:00-4:00 (Jones 304)
-    - Jinwen: Fri 10:00-11:00 (Jones 304)
+- TA office hours: 
+    - Jimmy: Mon 1:30-2:30pm (Jones 304)
+    - Sean: Wed 3:00-4:00pm (Jones 304)
+    - Jinwen: Fri 10:00-11:00am (Jones 304)
+- Instructor office hours:
+    - Aaron: Thurs 5:00-6:00pm (Searle 236)
 
 ## Assignments
 - [Assignment 1: Supervised learning](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw1.ipynb). Due **Saturday March 30 at 11:59pm** on GradeScope. 
