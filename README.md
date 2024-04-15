@@ -93,6 +93,7 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 - Reading / resources:
 	- Chap 3 of Michael Jordan's [lecture notes](https://people.cs.pitt.edu/~milos/courses/cs3750-Spring2020/Readings/Graphical_models/chapter3.pdf)
 	- David Blei's [lecture notes](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/inference.pdf) on inference in PGMs
+	- Yedidia et al. (2001) ["Bethe free energy, Kikuchi approximations, and belief propagation algorithms"](https://www.merl.com/publications/docs/TR2001-16.pdf)
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_8_ipad.pdf)
 
