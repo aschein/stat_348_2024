@@ -21,7 +21,7 @@ The University of Chicago
 - [Assignment 1: Supervised learning](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw1.ipynb). Due **Saturday March 30 at 11:59pm** on GradeScope. 
 - [Assignment 2: Priors, regularization, shrinkage](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw2.ipynb). Due **Saturday April 6 at 11:59pm** on GradeScope. 
 - [Assignment 3: Exponential families, conjugacy, entropy](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw3.pdf). Due **Monday April 15 at 11:59pm** on GradeScope. 
-- [Assignment 4: HMMs and the USS Scorpion](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw4/hw4.ipynb). Due **Wednesday May 2 at 11:59pm** on GradeScope. 
+- [Assignment 4: HMMs and the USS Scorpion](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw4/hw4.ipynb). Due **Wednesday April 24 at 11:59pm** on GradeScope. 
 
 
 ## Schedule
