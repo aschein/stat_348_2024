@@ -109,5 +109,9 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 ### Lecture 10 (April 18): Learning and inference in hidden Markov models (HMMs)
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_10_ipad.pdf)
+    
+### Lecture 11 (April 23): Bayesian mixture models
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_11_ipad.pdf)
    
 
