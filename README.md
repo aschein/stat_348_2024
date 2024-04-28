@@ -126,7 +126,6 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture04_mcmc.pdf) on MCMC
     - Geweke (2004): ["Getting it Right: Joint Distribution Tests of Posterior Simulators"](http://qed.econ.queensu.ca/pub/faculty/ferrall/quant/papers/04_04_29_geweke.pdf)
     - Roger Grosse's [blogpost](https://lips.cs.princeton.edu/testing-mcmc-code-part-2-integration-tests/) on Geweke testing
-
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_12_ipad.pdf)
    
