@@ -22,6 +22,7 @@ The University of Chicago
 - [Assignment 2: Priors, regularization, shrinkage](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw2.ipynb). Due **Saturday April 6 at 11:59pm** on GradeScope. 
 - [Assignment 3: Exponential families, conjugacy, entropy](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw3.pdf). Due **Monday April 15 at 11:59pm** on GradeScope. 
 - [Assignment 4: HMMs and the USS Scorpion](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw4/hw4.ipynb). Due **Wednesday April 24 at 11:59pm** on GradeScope. 
+- [Assignment 5: EM and Gibbs sampling](https://github.com/aschein/stat_348_2024/blob/main/assignments/hw5/hw5.ipynb). Due **Friday May 10 at 11:59pm** on GradeScope. 
 
 
 ## Schedule
@@ -114,6 +115,7 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 - Reading / resources:
    - Chap 9 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on mixtures and EM
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture07-mixtures.pdf) on Bayesian mixtures
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture08-em.pdf) on EM
     - David Blei's [lecture notes](http://www.cs.columbia.edu/~blei/fogm/2016F/doc/gibbs.pdf) on Bayesian mixtures
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_11_ipad.pdf)
