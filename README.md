@@ -131,7 +131,7 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_12_ipad.pdf)
  
-### Lecture 13 (April 27): Poisson matrix factorization and auxiliary-variable MCMC
+### Lecture 13 (April 27): Non-negative matrix factorization, Poisson factorization, and auxiliary-variable MCMC
 - Reading / resources: 
    - Dunson & Herring (2005) ["Bayesian latent variable models for mixed discrete outcomes"](https://pubmed.ncbi.nlm.nih.gov/15618524/)
    - Gopalan et al. (2014) ["Scalable Recommendation with Poisson factorization"](https://arxiv.org/pdf/1311.1704)
