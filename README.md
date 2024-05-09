@@ -132,16 +132,18 @@ from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/A
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_12_ipad.pdf)
  
 ### Lecture 13 (April 27): Poisson matrix factorization and auxiliary-variable MCMC
-Reading / resources: 
-	- Dunson & Herring (2005) ["Bayesian latent variable models for mixed discrete outcomes"](https://pubmed.ncbi.nlm.nih.gov/15618524/)
-	- Gopalan et al. (2014) ["Scalable Recommendation with Poisson factorization"](https://arxiv.org/pdf/1311.1704)
+- Reading / resources: 
+   - Dunson & Herring (2005) ["Bayesian latent variable models for mixed discrete outcomes"](https://pubmed.ncbi.nlm.nih.gov/15618524/)
+   - Gopalan et al. (2014) ["Scalable Recommendation with Poisson factorization"](https://arxiv.org/pdf/1311.1704)
+   - Lee and Seung (1999) ["Learning the parts of objects by non-negative matrix factorization"](https://www.nature.com/articles/44565)
+   - Gillis (2014) ["The How and Why of Nonnegative Matrix Factorization"](https://arxiv.org/pdf/1401.5226.pdf)
 - Lecture materials: 
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_13_ipad.pdf)
  
 ### Midterm (May 2)
 
 ### Lecture 14 (April May 7):  Latent Dirichlet allocation (LDA) and variational inference (VI)
-- Suggested readings:
+- Reading / resources:
     - Chap 27.3 of Murphy (2012) [_Machine Learning: A Probabilistic Perspective_](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture09-lda_cavi.pdf) on CAVI for LDA
     - Jeffrey Miller's [slides](https://jwmi.github.io/BMB/12-Variational-inference-and-LDA.pdf) on CAVI for LDA
@@ -152,7 +154,7 @@ Reading / resources:
     - [iPad notes](https://github.com/aschein/stat_348_2024/blob/main/lecture_materials/ipad_notes/lecture_14_15_ipad.pdf)
 
 ### Lecture 15 (April May 9): Variational inference (cont.): CAVI and SVI
-- Suggested readings:
+- Reading / resources:
     - Blei, Kucukelbir & McAuliffe (2017) ["Variational inference: A review for statisticians"](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf)
     - Chap 10.1-10.2, 10.4 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
     - Slides from [lecture 2](https://github.com/aschein/stat_451/blob/main/materials/lecture_2.pdf) of STAT 451 on CAVI and SVI
